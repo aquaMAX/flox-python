@@ -1,0 +1,145 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "python314": {
+        "pkg-path": "python314"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {
+      "systems": [
+        "aarch64-darwin",
+        "aarch64-linux",
+        "x86_64-darwin",
+        "x86_64-linux"
+      ],
+      "allow": {
+        "licenses": []
+      },
+      "semver": {}
+    }
+  },
+  "packages": [
+    {
+      "attr_path": "python314",
+      "broken": false,
+      "derivation": "/nix/store/92xa56qg99k8b4fmfyivny2q97fg3m49-python3-3.14.0a2.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python314",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "name": "python3-3.14.0a2",
+      "pname": "python314",
+      "rev": "5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "rev_count": 738982,
+      "rev_date": "2025-01-16T21:27:11Z",
+      "scrape_date": "2025-01-18T00:14:56Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.14.0a2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qrja8c7ibcp3xfh0d16lbi2rv4bs9r8h-python3-3.14.0a2"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python314",
+      "broken": false,
+      "derivation": "/nix/store/xlw8m3nyipq3syfc3gcya25kc3aah5dm-python3-3.14.0a2.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python314",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "name": "python3-3.14.0a2",
+      "pname": "python314",
+      "rev": "5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "rev_count": 738982,
+      "rev_date": "2025-01-16T21:27:11Z",
+      "scrape_date": "2025-01-18T00:14:56Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.14.0a2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/hma0bl4gc7axd2pc86gws4wj0kz48l5p-python3-3.14.0a2-debug",
+        "out": "/nix/store/bv0pdi5lzi8y6g4nqjk701vfw2vww623-python3-3.14.0a2"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python314",
+      "broken": false,
+      "derivation": "/nix/store/iwxb49ph2sdy1jg6fflxa9yipfnwzr3r-python3-3.14.0a2.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python314",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "name": "python3-3.14.0a2",
+      "pname": "python314",
+      "rev": "5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "rev_count": 738982,
+      "rev_date": "2025-01-16T21:27:11Z",
+      "scrape_date": "2025-01-18T00:14:56Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.14.0a2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8a7zvb2pzf625mv2ligyxap1vqvhmw27-python3-3.14.0a2"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "python314",
+      "broken": false,
+      "derivation": "/nix/store/893qizxrv5nb9fs3hllrmghk4sifa1h3-python3-3.14.0a2.drv",
+      "description": "High-level dynamically-typed programming language",
+      "install_id": "python314",
+      "license": "Python-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "name": "python3-3.14.0a2",
+      "pname": "python314",
+      "rev": "5df43628fdf08d642be8ba5b3625a6c70731c19c",
+      "rev_count": 738982,
+      "rev_date": "2025-01-16T21:27:11Z",
+      "scrape_date": "2025-01-18T00:14:56Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "python3-3.14.0a2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "debug": "/nix/store/fpqs0vgin67ykgn40mxbaxybcsmyydil-python3-3.14.0a2-debug",
+        "out": "/nix/store/hnm8chq2vapid4s0y57q2x6h1rnxzs88-python3-3.14.0a2"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}
